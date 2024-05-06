@@ -1,0 +1,39 @@
+body
+		{
+			background-color: red;
+		}
+		#admin_login
+		{
+			background-color: white;
+			margin-left: 500px;
+			margin-right: 500px;
+			height: 325px;
+			padding-top: 30px;
+			margin-top: 150px;
+            border: 1px solid yellow;
+            text-align: center;
+
+		}
+		h2
+		{
+			color: red;
+			margin-top: 30px;
+			padding-top: 10px;
+		}
+		#pass
+		{
+			padding-right: 90px;
+		}
+		#name
+		{
+			padding-right: 113px;
+		}
+		button
+		{
+			background-color: lightgreen;
+		}
+		input
+		{
+			padding-left: 20px;
+			height: 20px;
+		}
